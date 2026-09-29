@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-anti-coaster-lens-filter
-description: "Block unrequested metaprogramming tricks in favor of direct idiomatic code." Use this when working on fitzpatrick anti coaster lens filter.
+description: "Block unrequested metaprogramming tricks in favor of direct idiomatic code. Use this when working on fitzpatrick anti coaster lens filter."
 category: "Writing & Communication"
 triggers:
   - "anti coaster lens"
